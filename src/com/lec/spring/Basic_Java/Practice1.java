@@ -1,4 +1,4 @@
-package com.lec.spring;
+package com.lec.spring.Basic_Java;
 
 import java.util.Scanner;
 
