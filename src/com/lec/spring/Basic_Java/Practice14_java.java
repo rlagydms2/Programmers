@@ -1,6 +1,6 @@
 package com.lec.spring.Basic_Java;
 
-public class Practice2 {
+public class Practice14_java {
     public String solution(String my_string, String overwrite_string, int s) {
         String answer = my_string.substring(0, s) + overwrite_string;
 
